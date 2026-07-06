@@ -1,0 +1,8 @@
+Paso,Descripción,Filas,Nulos,Retención (%)
+1,Carga del dataset original,8160,753,100.0
+2,Eliminación de duplicados exactos,8034,753,98.46
+3,Resolución de user_id duplicados con datos conflictivos (se conserva la primera aparición),8000,753,98.04
+4,"Estandarización de categorías (subscription_plan, country, favorite_genre)",8000,753,98.04
+5,Unificación de formato de fechas en last_login_date (fechas inválidas -> nulo),8000,817,98.04
+6,"Valores imposibles en age, monthly_watch_time_mins y customer_support_tickets marcados como nulos",8000,1067,98.04
+7,Fechas futuras imposibles en last_login_date marcadas como nulas,8000,1082,98.04

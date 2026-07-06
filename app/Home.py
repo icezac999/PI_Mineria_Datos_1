@@ -17,5 +17,5 @@ dimensionalidad mediante PCA.
 
 Usá el menú de la izquierda para navegar entre las secciones: Dataset, EDA, PCA y Conclusiones.
 
-**Repositorio GitHub:** _(completar enlace)_
+**Repositorio GitHub:** [PI_Mineria_Datos_1] (https://github.com/icezac999/PI_Mineria_Datos_1)
 """)

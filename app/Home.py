@@ -6,9 +6,9 @@ st.title("Proyecto Integrador — Minería de Datos 1")
 st.subheader("Análisis de usuarios de una plataforma de streaming")
 
 st.markdown("""
-**Integrantes:** _(completar)_
-**Comisión:** _(completar)_
-**Fecha:** _(completar)_
+**Integrantes:** ("Ovejero Cesar, Ruiz Mariano, Isaías Cazazola")
+**Comisión:** ("Nueva Esperanza")
+**Fecha:** ("04-07-26")
 
 ### Contexto
 Este proyecto aplica un proceso completo de análisis de datos sobre un dataset de usuarios

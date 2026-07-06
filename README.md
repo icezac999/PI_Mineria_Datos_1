@@ -3,9 +3,9 @@
 ## Información general
 Proyecto Integrador de la materia Minería de Datos 1. Trabajo grupal sobre un dataset de usuarios de una plataforma de streaming, con el objetivo de aplicar un proceso completo de análisis de datos: inspección, limpieza, EDA, reducción de dimensionalidad y comunicación de resultados.
 
-**Integrantes:** _(completar nombres)_
-**Comisión:** _(completar)_
-**Fecha:** _(completar)_
+**Integrantes:** Ovejero Cesar, Ruiz Mariano, Isaías Cazazola
+**Comisión:** Nueva Esperanza
+**Fecha:** 04-07-26
 
 ## Objetivo del proyecto
 Aplicar los contenidos de Minería de Datos 1 para construir un proyecto de análisis de datos reproducible, con decisiones justificadas y trazabilidad del proceso. El trabajo cubre la inspección inicial, la preparación de los datos, el análisis exploratorio univariado, bivariado y multivariado, y la reducción de dimensionalidad mediante PCA. No incluye modelado predictivo. Los resultados se comunican mediante una aplicación en Streamlit y un informe final breve en PDF.

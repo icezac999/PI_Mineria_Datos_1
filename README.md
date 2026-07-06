@@ -48,7 +48,7 @@ Se aplicó PCA sobre las tres variables numéricas (`age`, `monthly_watch_time_m
 
 ## Visualización interactiva
 La aplicación pública en Streamlit permite explorar el dataset, el análisis exploratorio y el PCA de forma interactiva.
-Enlace: _(completar con el enlace de Streamlit Cloud)_
+Enlace: [https://pimineriadatos1-dr79w9u3wsruinrbfcb2aa.streamlit.app/]
 
 ## Cómo ejecutar localmente
 ```bash
